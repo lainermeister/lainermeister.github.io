@@ -4,9 +4,7 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>I’m a full-stack software engineer with a background in engineering, consulting, and fintech.</p>
-<p>I began learning Javascript while serving as a cofounder at UpsideBot.</p>
-<p>I since have been passionately building on modern frameworks so I can bring greater value to engineering teams.<p>
+<p>I’m a full-stack software engineer with a background in engineering, consulting, and fintech.  I began learning Javascript while serving as a cofounder at UpsideBot.  I since have been passionately building on modern frameworks so I can bring greater value to engineering teams.<p>
 <p>I'm fluent in English and Cantonese.</p>
 
 <h2>Skills</h2>
