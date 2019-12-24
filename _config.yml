@@ -1,9 +1,9 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: Elaine Wong
+bio: Full-stack software engineer with a background in engineering, consulting, and fintech.
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: Elaine Wong, Github Bio
 
 # if it's an external image, update below for true
 # better with square images
@@ -64,7 +64,7 @@ width: normal
 # paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
-projects: true
+# projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
