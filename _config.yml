@@ -1,6 +1,6 @@
 # main text of home
 name: Elaine Wong
-bio: Full-stack software engineer with a background in engineering, consulting, and fintech.
+bio: Software engineer with a background in fintech, consulting & engineering
 
 # twitter summary info
 description: Elaine Wong, Github Bio
@@ -30,8 +30,8 @@ permalink: /:title/
 
 # if you don't want comments in your posts, leave categories empty
 disqus:
-  shortname: mydisqus # enter this from your disqus account
-  categories: [] # only show disqus for posts that have these categories
+    shortname: mydisqus # enter this from your disqus account
+    categories: [] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
@@ -52,7 +52,6 @@ github: lainermeister
 # vimeo: myvimeo
 # lanyrd: mylanyrd
 email: lainermeister@gmail.com
-
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -89,11 +88,11 @@ show-author: false
 animation: true
 
 plugins:
-  - jekyll-seo-tag
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
-  - jekyll-admin
+    - jekyll-seo-tag
+    - jekyll-gist
+    - jekyll-feed
+    - jemoji
+    - jekyll-admin
 
 jekyll-mentions:
     base_url: https://github.com
@@ -101,7 +100,8 @@ jekyll-mentions:
 compress_html:
     ignore:
         envs:
-        - development
-        - stage
+            - development
+            - stage
 
-exclude: ["travis.sh", "Rakefile", "README.md", "Gemfile", "Gemfile.lock", "FAQ.md"]
+exclude:
+    ["travis.sh", "Rakefile", "README.md", "Gemfile", "Gemfile.lock", "FAQ.md"]
